@@ -1,4 +1,4 @@
-# TransformerForStockPricePrediction
+# Transformer For Stock Price Prediction
 Using Transformer approach to optimize stock price prediction results for 10 stocks.
 
 Here are steps to run the code: 
