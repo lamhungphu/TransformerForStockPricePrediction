@@ -1,7 +1,18 @@
 # Transformer For Stock Price Prediction
 Using Transformer approach to optimize stock price prediction results for 10 stocks.
 
-Here are steps to run the code: 
+**Hyperparameters used:**
+1. Number of transformation block: 1
+2. Size for attention: 46
+3. Numbers of attention heads: 60
+4. Dropout rate for Multi-head attention: 0.14
+5. Epochs:150
+6. Batch_size = 32
+7. Validation split= 0.2
+8. Learning rate: 1e-4
+9. Optimizer: Adam
+
+**Here are steps to run the code:**
 1. Open Google Colab
 2. Download Transfromer(10_Companies).ipynb and data of 10 stocks
 3. Open the file in Colab
