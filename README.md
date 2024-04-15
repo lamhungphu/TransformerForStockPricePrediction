@@ -7,3 +7,5 @@ Here are steps to run the code:
 3. Open the file in Colab
 4. Upload 10 stocks files into Colab
 5. Run the code
+
+[You can see my results and comparisons to other approaches here](IwAR0vpI4n7VIuUb6r1EuCMLEvsyp_p0wDlfdE5JjpbBCQeNMclQdjXEFo73g_aem_Aca4o68SAqp1MTIjZeUFC)
